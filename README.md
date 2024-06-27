@@ -14,12 +14,17 @@ create project:
 `cd myproject`
 
 `python manage.py startapp myapp`
-# Add app in INSTALLED_APPS = [] in settings.py
+ Add app in INSTALLED_APPS = [] in settings.py
 
 `python manage.py makemigrations`
+<br>
 `python manage.py migrate`
+<br>
 
 `python manage.py createsuperuer`
+<br>
+
 `python manage.py shell` to open shell
+<br>
 
 `python manage.py runserver`
