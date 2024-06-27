@@ -1,8 +1,10 @@
 Commands:
 Create Virtual Environment on windows: `python -m venv venv`
+
 on Linux: `python3 -m venv venv`
 
 Activate venv: `venv\Scripts\Activate`
+
 on Linux: `source venv\Scripts\Activate`
 
 Install Djangoa and Pillow:
